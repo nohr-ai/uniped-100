@@ -1,5 +1,5 @@
-# Uniped-100
-Resources for when I took Uniped-100@uit
+# Uniped-100 2026
+Resources for when I took Uniped-100@uit 2026
 
 
 # Reading list
