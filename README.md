@@ -1,48 +1,110 @@
 # Uniped-100
 Resources for when I took Uniped-100@uit
 
+
 # Reading list
+
 
 ## Module 1 Short introduction to teaching and learning
 
-[On two metaphors for learning and the dangers of choosing just one](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_primary_10_2307_1176193&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Sfard,%20A.%20(1998).%20On%20two%20metaphors%20for%20learning%20and%20the%20dangers%20of%20choosing%20just%20one.%20Educational%20Researcher,%2027(2),%204%E2%80%9313.&offset=0)
+[On two metaphors for learning and the dangers of choosing just one 4-13](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_crossref_primary_10_2307_1176193)
 
-[How learning works](https://bibsys-c.primo.exlibrisgroup.com/discovery/search?query=any,contains,Ambrose,%20S.%20A.,%20Bridges,%20M.%20W.,%20DiPietro,%20M.,%20Lovett,%20M.%20C.,%20%26%20Norman,%20M.%20K.%20(2010).%20How%20Learning%20Works:%20Seven%20Research-Based%20Principles%20for%20Smart%20Teaching.%20Jossey-Bass.&tab=default_slot&search_scope=MyInst_and_CI&vid=47BIBSYS_UBTO:UBTO&offset=0)
+[How learning works](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/lsij0f/alma999920030390602205)
+
 
 ## Module 2 Learning outcomes
 
-[Learning outcomes in higher education](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_webofscience_primary_A1996UB94200009CitationCount&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Allan,%20J.%20(1996).%20Learning%20outcomes%20in%20higher%20education.%20Studies%20in%20Higher%20Education,%2021(1),%2093%E2%80%93108.&offset=0)
+[Learning outcomes in higher education 93-108](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_webofscience_primary_A1996UB94200009CitationCount)
 
-[Why use learning outcomes in higher education? Exploring the grounds for academic resistance and reclaiming the value of unexpected learning. Educational assessment, evaluation and accountability](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_springer_journals_10_1007_s11092_016_9243_z&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Havnes,%20A.,%20%26%20Pr%C3%B8itz,%20T.%20S.%20(2016).%20Why%20use%20learning%20outcomes%20in%20higher%20education%3F%20Exploring%20the%20grounds%20for%20academic%20resistance%20and%20reclaiming%20the%20value%20of%20unexpected%20learning.%20Educational%20Assessment,%20Evaluation%20and%20Accountability,%2028,%20205%E2%80%93223.&offset=0)
+[Why use learning outcomes in higher education? Exploring the grounds for academic resistance and reclaiming the value of unexpected learning. Educational assessment, evaluation and accountability 205-223](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_springer_journals_10_1007_s11092_016_9243_z)
 
-[A taxonomy for learning, teaching, and assessing: a revision of Bloom's. Taxonomy of Educational Objectives](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_reports_199579418&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Anderson,%20L.%20W.,%20%26%20Krathwohl,%20D.%20R.%20(red.).%20(2001).%20A%20Taxonomy%20for%20Learning,%20Teaching,%20and%20Assessing:%20A%20Revision%20of%20Bloom%27s%20Taxonomy%20of%20Educational%20Objectives.%20Longman.&offset=0)
+[A taxonomy for learning, teaching, and assessing: a revision of Bloom's. Taxonomy of Educational Objectives](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_proquest_reports_199579418)
 
-[A Guide to writing learning outcomes in higher education. The national teaching repository, sheffield hallam university](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_worldbank_documents_725861559549239200&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Purvis,%20A.,%20%26%20Winwood,%20B.%20(2023).%20A%20Guide%20to%20Writing%20Learning%20Outcomes%20in%20Higher%20Education.%20The%20National%20Teaching%20Repository,%20Sheffield%20Hallam%20University.&offset=0)
+[A Guide to writing learning outcomes in higher education. The national teaching repository, sheffield hallam university](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_worldbank_documents_725861559549239200)
+
 
 ## Module 3 Teaching Methods
 
-[Giving a good lecture](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_citationtrail_10_1016_j_mpdhp_2008_04_004&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Domizio,%20P.%20(2008).%20Giving%20a%20good%20lecture.%20Diagnostic%20Histopathology,%2014(6),%20284%E2%80%93288.&offset=0)
+[Giving a good lecture 284-288](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_crossref_citationtrail_10_1016_j_mpdhp_2008_04_004)
 
-[53 interesting things to do in your lectures]()
+[Habeshaw, S., Habeshaw, T., & Gibbs, G. (1984). 53 Interesting Things to Do in Your Lectures. Technical and Educational Services.] MIA
 
-[The impact of lecture chunking format on university student vigilance: implications for classroom pedagogy](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_primary_10_33902_JPSP_2021272429&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Harris,%20A.,%20Buglass,%20S.,%20%26%20Gous,%20G.%20(2021).%20The%20impact%20of%20lecture%20chunking%20format%20on%20university%20student%20vigilance:%20Implications%20for%20classroom%20pedagogy.%20Journal%20of%20Pedagogical%20Sociology%20and%20Psychology,%203(2),%2090%E2%80%93102.&offset=0)
+[The impact of lecture chunking format on university student vigilance: implications for classroom pedagogy 90-102](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_crossref_primary_10_33902_JPSP_2021272429)
 
 [How to avoid death by powerpoint](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
 
-[Teaching large classes at college and university level: challenges and opportunities](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_informaworld_taylorfrancis_310_1080_13562511003620001&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Mulryan-Kyne,%20C.%20(2010).%20Teaching%20large%20classes%20at%20college%20and%20university%20level:%20Challenges%20and%20opportunities.%20Teaching%20in%20Higher%20Education,%2015(2),%20175%E2%80%93185.&offset=0)
+[Teaching large classes at college and university level: challenges and opportunities 175-185](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_informaworld_taylorfrancis_310_1080_13562511003620001)
 
-[Active learning: creating excitement in the classroom]()
+[Bonwell, C. C., & Eison, J. A. (1991). Active Learning: Creating Excitement in the Classroom. ASHE-ERIC Higher Education Report No. 1. George Washington University.] MIA
 
-[Making small-group teaching work]()
+[Race, P. (2006). Making small-group teaching work. I P. Race, The Lecturer's Toolkit (3. utg.). Routledge.
+] MIA
 
-[Planning, preparing and structuring a small group teaching session](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_primary_10_1186_s12909_020_02281_4&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,van%20Diggele,%20C.,%20Burgess,%20A.,%20%26%20Mellis,%20C.%20(2020).%20Planning,%20preparing%20and%20structuring%20a%20small%20group%20teaching%20session.%20BMC%20Medical%20Education,%2020(Suppl%202),%20462.&offset=0)
+[Planning, preparing and structuring a small group teaching session](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_crossref_primary_10_1186_s12909_020_02281_4)
 
-[The deaded discussion: Ten ways to start](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_jstor_primary_27565439&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Frederick,%20P.%20(1981).%20The%20dreaded%20discussion:%20Ten%20ways%20to%20start.%20Improving%20College%20and%20University%20Teaching,%2029(3),%20109%E2%80%93114.&offset=0)
+[The deaded discussion: Ten ways to start 109-114](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_jstor_primary_27565439)
 
-[The power of feedback](https://bibsys-c.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_eric_primary_EJ782448&context=PC&vid=47BIBSYS_UBTO:UBTO&lang=no&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=default_slot&query=any,contains,Hattie,%20J.,%20%26%20Timperley,%20H.%20(2007).%20The%20power%20of%20feedback.%20Review%20of%20Educational%20Research,%2077(1),%2081%E2%80%93112.&offset=0)
+[The power of feedback 81-112](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_eric_primary_EJ782448)
+
 
 ## Module 4 Assessment
 
-[
+[Learning from the student's perspective 62-83](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_informaworld_taylorfrancisbooks_10_4324_9780203507711_8_version2)
 
+[Assessing Students: How shall we know them?](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_webofscience_primary_A1978GH03300013)
+
+[Towards a scholarship of assessment 229-237](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_crossref_primary_10_1080_02602930600805192)
+
+
+## Module 5 Putting it all together: Design for learning
+
+[Current research in learning design 13-22](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_webofscience_primary_000235179100003CitationCount)
+
+[Biggs, J. (2014). Constructive alignment in university teaching. HERDSA Review of Higher Education, 1, 5–22.] MIA
+
+[Cognitive conceptions of learning 411-436](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_jstor_primary_1170340)
+
+[Wiggins, G., & McTighe, J. (2005). Understanding by Design. Association for Supervision and Curriculum Development] MIA
+
+
+## Module 6 The lecturer
+
+[Exploring early career academic teacher identities: using the audio diary method for reflection and research 1646-1662](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_webofscience_primary_001399101800001)
+
+[Kharbach, M. (2024, oppdatert 2026). Characteristics of the 21st century teachers. Educators Technology.] MIA
+
+
+## Module 7 The student
+
+[Framing student engagement in higher education 758-773](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_proquest_journals_1364611082)
+
+
+## Module 8 Accesibility
+
+[Universal design for instruction: A new paradigm for adult instruction in postsecondary education 369-379](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_eric_primary_EJ679475)
+
+[Universal design and its applications in educational environments 166-175](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_proquest_miscellaneous_57109674)
+
+## Module 9 Technology in teaching
+
+[Clark, R. C., & Mayer, R. E. (2016). e-Learning and the Science of Instruction (4. utg.). Wiley.] MIA
+
+[Morozov, E. (2013). To Save Everything, Click Here: The Folly of Technological Solutionism. PublicAffairs.] MIA
+
+[Pedagogy, technology, and the example of open educational resources](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_proquest_journals_3224631999)
+
+[What works and why? Student perceptions of "useful"digital technology in university teaching and learning 1567-1579](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_webofscience_primary_000403147900015CitationCount)
+
+[Engagement matters: Student perceptions on the importance of engagement strategies in the online learning environment 205-222](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_eric_primary_EJ1179659)
+
+
+## Module 10 Observation
+
+[Supported reflective practice: A programme of peer observation and feedback for academic teaching development 29-39](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_crossref_citationtrail_10_1080_13601440110033643)
+
+[Gosling, D. (2002). Models of Peer Observation of Teaching. LTSN Generic Centre.] MIA
+
+[The power of feedback 81-112](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_eric_primary_EJ782448)
+
+[Peer observation of teaching as a faculty development tool](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_gale_infotracmisc_A534165971)
 
